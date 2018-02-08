@@ -2,6 +2,8 @@
 
 This is a demo project of a real-time Mask R-CNN using [Detectron](https://github.com/facebookresearch/Detectron). We will be using consumer grade webcam for capturing the video stream.
 
+**Project Status:** Early release. Still in heavy development. What this means is, things might be moved around quickly and things will break.
+
 ## Introduction
 
 Detectron is Facebook AI Research (FAIR)'s research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
