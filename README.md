@@ -54,3 +54,9 @@ Detectron should automatically download the model from the URL specified by the 
 **Notes:**
 
 The code used for this demo in `inference.py` is the same as the one mentioned in [Detectron documentation](https://github.com/facebookresearch/Detectron/blob/master/GETTING_STARTED.md#1-directory-of-image-files) except with a few modifications to support webcam as input.
+
+## Credits
+
+Referenced these implementations:
+
+1. [Demo with Mask R-CNN in Google Colab with GPU acceleration](https://github.com/OSSDC/OSSDC-VisionBasedACC/blob/master/image-segmentation/ossdc_matterport_Mask_RCNN_colaboratory.ipynb)
